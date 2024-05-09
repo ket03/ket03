@@ -5,13 +5,12 @@ C++ dev
 -------
 
 2nd year student of KFU. Also student of ecole42. 
-<p>Main tools: C++, QT, Postgresql
-<p>Basic knowledge: Docker, Git, Unreal Engine, Bash
+<p>Main tools: C++, QT, Postgresql, Make, Cmake, Qmake
+<p>Basic knowledge: Docker, Git, Unity, Bash, Python, C#
 
 *   ✉️  You can contact me at [https://t.me/Quack007](mailto:https://t.me/Quack007)
-*   🧠  I'm learning English, Docker, Git, Unreal Engine
+*   🧠  I'm learning English, Docker, Git, Unity
 *   🤝  I'm open to collaborating on any projects
-*   ⚡  a fan of communicating 1 on 1 with interesting people
 
 ### Skills 
 <p align="left">
