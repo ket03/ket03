@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++ dev
 -------
 
-2nd year student of KFU. Also student of ecole42. 
+3nd year student of KFU. Also student of ecole42. 
 <p>Main tools: C++, QT, Postgresql, Make, Cmake, Qmake
-<p>Basic knowledge: Docker, Git, Unity, Bash, Python, C#
+<p>Basic knowledge: Docker, Git, Bash, Python
 
 *   ✉️  You can contact me at [https://t.me/Quack007](mailto:https://t.me/Quack007)
-*   🧠  I'm learning English, Docker, Git, Unity
 *   🤝  I'm open to collaborating on any projects
 
 ### Skills 
