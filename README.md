@@ -1,11 +1,10 @@
-Kiet
+Ket
 =====================
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl0aGp2b2tmMmFsZGkzMmJvZnd2ZWNoN2hmOTd1amEycjdrb3diYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" align="right" width="300">
 
-### Devops / Python / C++
+### Devops / C++ / Python
 
-Moving from development to DevOps
 
 * ✉️  You can contact me at [meelisa609@gmail.com](mailto:meelisa609@gmail.com)
 * 🧠  I'm currently learning kubernetes, terraform, ansible
